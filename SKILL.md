@@ -1,6 +1,6 @@
 ---
 name: Content Repurposing Agent — Multi-Channel Atomization Engine
-description: Analyze, Orchestrate, and Validate operations to: Scrapes published long-form articles via Python using BeautifulSoup, deconstructs core arguments into MECE atomic units, and synthesizes channel-native assets: X/Twitter threads, LinkedIn carousels, and Newsletter hooks — all locked to the brand's voice. ROI: turns one content investment into 3+ distribution channels with zero additional writing time.
+description: "Analyze, Orchestrate, and Validate operations to: Scrapes published long-form articles via Python using BeautifulSoup, deconstructs core arguments into MECE atomic units, and synthesizes channel-native assets: X/Twitter threads, LinkedIn carousels, and Newsletter hooks — all locked to the brand's voice. ROI: turns one content investment into 3+ distribution channels with zero additional writing time."
 ---
 
 # 🎯 Goal
