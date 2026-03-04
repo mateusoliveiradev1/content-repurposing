@@ -1,0 +1,19 @@
+{
+    "agent_name": "Content Repurposing Agent",
+    "version": "1.0.0",
+    "description": "Atomizes long-form content into multi-channel social assets.",
+    "capabilities": [
+        "marketing-automation",
+        "web-scraping"
+    ],
+    "protocols": {
+        "a2a": "1.0",
+        "payment": "x402"
+    },
+    "monetization": {
+        "provider": "nevermined",
+        "model": "usage-based",
+        "nevermined_id": "0xBEC6f0365D9d37e4442CfAf02B946b55B51d4575",
+        "currency": "USDC"
+    }
+}
